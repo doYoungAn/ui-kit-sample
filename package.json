@@ -1,0 +1,19 @@
+{
+  "name": "ui-kit-sample",
+  "version": "1.0.0",
+  "description": "css 프레임워크인 [ui-kit](https://getuikit.com/)를 접하고 연습하는 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doYoungAn/ui-kit-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doYoungAn/ui-kit-sample/issues"
+  },
+  "homepage": "https://github.com/doYoungAn/ui-kit-sample#readme"
+}
