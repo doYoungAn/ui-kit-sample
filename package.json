@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/doYoungAn/ui-kit-sample/issues"
   },
-  "homepage": "https://github.com/doYoungAn/ui-kit-sample#readme"
+  "homepage": "https://github.com/doYoungAn/ui-kit-sample#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8"
+  }
 }
